@@ -1,0 +1,52 @@
+	{
+	"basicdetails":{
+		"image":"zaina.jpg",
+		"name":"a.gayathri",
+		"email":"gayathri.amareneni@gmail.com",
+		"phone":"9581776618",
+		"adress":"guntur"
+
+	},
+"education":[
+	{
+		"course":"B.tech(C.S.E)",
+		"college":"Vignan's Nirula Institute Of Technology",
+		"percentage":"70%"
+	},
+	{
+		"course":"Intermediate",
+		"college":"Sri Chaitanya College",
+		"percentage":"80%"
+	},
+	{
+		"course":"SSC",
+		"college":"Bhashyam",
+		"percentage":"90%"
+	}
+],
+"skills":[
+     {
+       "name":"operating systems",
+       "value":"Windows,Linux,MAC"
+      }, 
+       {
+       	"name":"Programming Languages",
+       	"value":"C,C++,Java,Python"
+       }
+    ],
+ "carrier":{
+ 	  "ca":"I am using my knowledge and skills towards the growth of our organization and i obey the organization rules and take my responsibility end of my working days"
+ },
+ "Achievements":[
+  "I got first prize in carroms competition in my college.",
+  "I got second prize in tech summit in mumbai.",
+  "I got first prize in power point presentation."
+],
+ "Description":{
+ 	"des":"here there by i want to mention that all the above mentioned data are total self details."
+ }
+
+
+    }    	
+     
+
