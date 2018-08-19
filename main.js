@@ -53,7 +53,7 @@ var phno=document.createElement("h3");
 phno.textContent=b.phone;
 l.appendChild(phno);
 var add=document.createElement("h3");
-mail.textContent=b.address;
+add.textContent=b.address;
 l.appendChild(add);
 }
 var r=document.createElement("div");
